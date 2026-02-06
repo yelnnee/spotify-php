@@ -1,0 +1,25 @@
+{
+  "name": "yelda/spotify-php",
+  "description": "TP Spotify en PHP 8 avec PHPUnit",
+  "type": "project",
+  "require": {
+    "php": ">=8.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Spotify\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Spotify\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit",
+    "test:coverage": "phpunit --coverage-html coverage"
+  }
+}
