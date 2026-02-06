@@ -3,7 +3,7 @@
         'name' => 'yelda/spotify-php',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '186fd5f7e0bb3de78fa21885a31c905547143207',
+        'reference' => '937aef69ca75abf96a1cac34920505443f401012',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -247,7 +247,7 @@
         'yelda/spotify-php' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '186fd5f7e0bb3de78fa21885a31c905547143207',
+            'reference' => '937aef69ca75abf96a1cac34920505443f401012',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
